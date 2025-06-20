@@ -1,1 +1,3 @@
 THis is dark mode test file.
+
+THis is the learning of git to check my command skills.
