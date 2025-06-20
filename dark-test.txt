@@ -3,3 +3,5 @@ THis is dark mode test file.
 THis is the learning of git to check my command skills.
 
 Git is the best tool to manage our project with each commits.
+
+What is your goal to learn git.
