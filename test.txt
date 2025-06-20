@@ -2,3 +2,4 @@ This is my first file for git.
 Some changes on master branch.
  here we learn about git
  git is a most popular project managing tool
+ every developer should know the git and it command to how to push pull and basic behaviour og git.
